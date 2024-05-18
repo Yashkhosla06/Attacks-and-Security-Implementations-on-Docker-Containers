@@ -82,4 +82,4 @@ While working on Docker security, we faced challenges such as replicating specif
 
 
 
-For more detailed information, please refer to the full report, the implementation of attacks and the working demo. 
+For more detailed information, please refer to the [full report](./INSE_6130_ProjectReport.docx.pdf)., the implementation of attacks and the working demo. 
